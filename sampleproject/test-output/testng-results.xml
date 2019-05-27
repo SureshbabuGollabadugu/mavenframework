@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="268" started-at="2019-05-25T12:20:29Z" finished-at="2019-05-25T12:20:30Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="122" started-at="2019-05-25T12:20:29Z" finished-at="2019-05-25T12:20:29Z">
+      <class name="tests.comapnies.CreateCompany">
+        <test-method status="PASS" signature="beforeTest(org.testng.ITestContext)[pri:0, instance:tests.comapnies.CreateCompany@4667ae56]" name="beforeTest" is-config="true" duration-ms="10" started-at="2019-05-25T12:20:29Z" finished-at="2019-05-25T12:20:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@8317c52]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:tests.comapnies.CreateCompany@4667ae56]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-05-25T12:20:29Z" finished-at="2019-05-25T12:20:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.comapnies.CreateCompany.CC_001_createCompany_Without_Address_Details()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="CC_001_createCompany_Without_Address_Details()[pri:0, instance:tests.comapnies.CreateCompany@4667ae56]" name="CC_001_createCompany_Without_Address_Details" duration-ms="55" started-at="2019-05-25T12:20:29Z" finished-at="2019-05-25T12:20:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CC_001_createCompany_Without_Address_Details -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:tests.comapnies.CreateCompany@4667ae56]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2019-05-25T12:20:29Z" finished-at="2019-05-25T12:20:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.comapnies.CreateCompany.CC_002_createCompany_With_Address_Details()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="CC_002_createCompany_With_Address_Details()[pri:0, instance:tests.comapnies.CreateCompany@4667ae56]" name="CC_002_createCompany_With_Address_Details" duration-ms="7" started-at="2019-05-25T12:20:29Z" finished-at="2019-05-25T12:20:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CC_002_createCompany_With_Address_Details -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.comapnies.CreateCompany@4667ae56]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-05-25T12:20:29Z" finished-at="2019-05-25T12:20:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.comapnies.CreateCompany -->
+    </test> <!-- ChromeTest -->
+    <test name="FireFoxTest" duration-ms="70" started-at="2019-05-25T12:20:29Z" finished-at="2019-05-25T12:20:30Z">
+      <class name="tests.comapnies.CreateCompany">
+        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext)[pri:0, instance:tests.comapnies.CreateCompany@56ac3a89]" name="beforeSuite" is-config="true" duration-ms="559" started-at="2019-05-25T12:20:29Z" finished-at="2019-05-25T12:20:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@78ffe6dc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest(org.testng.ITestContext)[pri:0, instance:tests.comapnies.CreateCompany@56ac3a89]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-05-25T12:20:29Z" finished-at="2019-05-25T12:20:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@78ffe6dc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:tests.comapnies.CreateCompany@56ac3a89]" name="beforeMethod" is-config="true" duration-ms="9" started-at="2019-05-25T12:20:29Z" finished-at="2019-05-25T12:20:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.comapnies.CreateCompany.CC_001_createCompany_Without_Address_Details()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="CC_001_createCompany_Without_Address_Details()[pri:0, instance:tests.comapnies.CreateCompany@56ac3a89]" name="CC_001_createCompany_Without_Address_Details" duration-ms="15" started-at="2019-05-25T12:20:29Z" finished-at="2019-05-25T12:20:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CC_001_createCompany_Without_Address_Details -->
+        <test-method status="PASS" signature="CC_002_createCompany_With_Address_Details()[pri:0, instance:tests.comapnies.CreateCompany@56ac3a89]" name="CC_002_createCompany_With_Address_Details" duration-ms="17" started-at="2019-05-25T12:20:30Z" finished-at="2019-05-25T12:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CC_002_createCompany_With_Address_Details -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:tests.comapnies.CreateCompany@56ac3a89]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-05-25T12:20:30Z" finished-at="2019-05-25T12:20:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.comapnies.CreateCompany.CC_002_createCompany_With_Address_Details()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.comapnies.CreateCompany@56ac3a89]" name="afterTest" is-config="true" duration-ms="4" started-at="2019-05-25T12:20:30Z" finished-at="2019-05-25T12:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:tests.comapnies.CreateCompany@56ac3a89]" name="afterSuite" is-config="true" duration-ms="858" started-at="2019-05-25T12:20:30Z" finished-at="2019-05-25T12:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- tests.comapnies.CreateCompany -->
+    </test> <!-- FireFoxTest -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>

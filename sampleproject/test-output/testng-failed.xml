@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="tests.comapnies.CreateCompany">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="beforeMethod"/>
+          <include name="beforeTest"/>
+          <include name="afterSuite"/>
+          <include name="CC_002_createCompany_With_Address_Details"/>
+          <include name="CC_001_createCompany_Without_Address_Details"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- tests.comapnies.CreateCompany -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
